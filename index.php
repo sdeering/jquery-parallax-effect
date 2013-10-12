@@ -88,7 +88,7 @@ Aenean suscipit felis sit amet tortor tincidunt ac ullamcorper neque fringilla. 
 </p>
 <p>
 <a class="seelivedemo" href="http://jquery4u.com/animation/jquery-parallax-tutorial/">Tutorial</a>
-<a class="seelivedemo" href="http://www.jquery4u.com/demos/jquery4u-parallax-demo/jquery4u-parallax-demo.zip">Download</a>
+<a class="seelivedemo" href="https://github.com/sdeering/jquery-parallax-effect">Download</a>
 </p>
 
 </div>
